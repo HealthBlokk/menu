@@ -1,0 +1,126 @@
+{
+    "restaurant": {
+        "id": "fresh-and-healthy",
+        "name": "Fresh & Healthy",
+        "description": "Moderne Küche mit Fokus auf frischen, biologischen Zutaten und gesunder Ernährung",
+        "location": {
+            "address": "La Scarpetta Dornbirn",
+            "city": "Dornbirn",
+            "postalCode": "8001",
+            "coordinates": {
+                "latitude": 47.3769,
+                "longitude": 8.5417
+            }
+        },
+        "menuItems": [
+            {
+                "id": 1,
+                "name": "Pasta Spinatta",
+                "price": 2.50,
+                "description": "Mit scharfer Salami, Zwiebeln und geriebene Fetakäse in Tomatensauce",
+                "ingredients": [
+                    "Pasta",
+                    "Scharfe Salami",
+                    "Zwiebeln",
+                    "Fetakäse",
+                    "Tomatensauce"
+                ],
+                "allergens": [
+                    "Milchprodukte"
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Spaghetti Aglio Olio",
+                "price": 11.90,
+                "description": "Mit Olivenöl, Knoblauch, frischem Chili und Cherrytomaten",
+                "ingredients": [
+                    "Spaghetti",
+                    "Olivenöl",
+                    "Knoblauch",
+                    "Chili",
+                    "Cherrytomaten"
+                ],
+                "allergens": []
+            },
+            {
+                "id": 3,
+                "name": "Pasta al Forno",
+                "price": 12.90,
+                "description": "Mit Hühnerfärschtem in Tomaten Sauce im Ofen überbacken",
+                "ingredients": [
+                    "Pasta",
+                    "Hühnerfärschtem",
+                    "Tomatensauce"
+                ],
+                "allergens": []
+            },
+            {
+                "id": 4,
+                "name": "Insalata di Vitello",
+                "price": 12.90,
+                "description": "Gemischter Salat mit Kalbsstreifen und French Dressing",
+                "ingredients": [
+                    "Gemischter Salat",
+                    "Kalbsstreifen",
+                    "French Dressing"
+                ],
+                "allergens": []
+            },
+            {
+                "id": 5,
+                "name": "Rindsgulasch",
+                "price": 12.90,
+                "description": "Gulasch mit Rindfleisch und Spätzle",
+                "ingredients": [
+                    "Rindfleisch",
+                    "Spätzle"
+                ],
+                "allergens": []
+            },
+            {
+                "id": 6,
+                "name": "Pizza",
+                "price": 10.80,
+                "description": "Margherita oder Salami oder Schinken oder Champignons",
+                "ingredients": [
+                    "Teig",
+                    "Tomatensauce",
+                    "Käse",
+                    "Margherita/Salami/Schinken/Champignons"
+                ],
+                "allergens": [
+                    "Milchprodukte",
+                    "Gluten"
+                ]
+            },
+            {
+                "id": 7,
+                "name": "Pesca Spada",
+                "price": 16.90,
+                "description": "Schwertfischsteak mit gegrilltem Gemüse",
+                "ingredients": [
+                    "Schwertfischsteak",
+                    "Gegrilltes Gemüse"
+                ],
+                "allergens": []
+            },
+            {
+                "id": 8,
+                "name": "Pizza Romana",
+                "price": 13.50,
+                "description": "Pizza mit Käse, Spinat und Tomatensauce",
+                "ingredients": [
+                    "Teig",
+                    "Käse",
+                    "Spinat",
+                    "Tomatensauce"
+                ],
+                "allergens": [
+                    "Milchprodukte",
+                    "Gluten"
+                ]
+            }
+        ]
+    }
+}
